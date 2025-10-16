@@ -1,10 +1,12 @@
 <idea-plugin>
     <id>org.bel.language-pack.BelarusianLanguagePack</id>
 
-    <name>Беларускі Моўны Пакет</name>
+    <name>Belarusian Language Pack</name>
     <vendor url="https://github.com/marcusjur">Kiryl</vendor>
 
     <description><![CDATA[
+        Belarusian Language Pack for the JetBrains IDE family.
+
         Пераклад інтэрфейсу для сямейства IDE JetBrains на беларускую мову.
         Дадайце родную мову ў сваю працу і атрымлівайце больш камфорту пры распрацоўцы.
     ]]></description>
